@@ -1,0 +1,13 @@
+{
+  "name": "purescript-metadata",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
